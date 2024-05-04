@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\C#\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\GridValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\GridValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\Direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\Images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Snake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\Snake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Snake\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Snake\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAgwKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:05:54.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Snake\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\MainWindow.xaml",
+              "RelativeToolTip": "Snake\\MainWindow.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T08:54:12.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Images.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Images.cs",
+              "RelativeDocumentMoniker": "Snake\\Images.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Images.cs",
+              "RelativeToolTip": "Snake\\Images.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:52:33.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridValue.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\GridValue.cs",
+              "RelativeDocumentMoniker": "Snake\\GridValue.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\GridValue.cs",
+              "RelativeToolTip": "Snake\\GridValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:52:30.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Snake\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\AssemblyInfo.cs",
+              "RelativeToolTip": "Snake\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:52:21.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Direction.cs",
+              "RelativeDocumentMoniker": "Snake\\Direction.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Direction.cs",
+              "RelativeToolTip": "Snake\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:52:03.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Snake\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\App.xaml.cs",
+              "RelativeToolTip": "Snake\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:51:55.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\App.xaml",
+              "RelativeDocumentMoniker": "Snake\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\App.xaml",
+              "RelativeToolTip": "Snake\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T08:51:51.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Position.cs",
+              "RelativeDocumentMoniker": "Snake\\Position.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Position.cs",
+              "RelativeToolTip": "Snake\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:51:44.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Snake.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Snake.csproj",
+              "RelativeDocumentMoniker": "Snake\\Snake.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\Snake.csproj",
+              "RelativeToolTip": "Snake\\Snake.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T08:46:26.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\GameState.cs",
+              "RelativeDocumentMoniker": "Snake\\GameState.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Snake\\Snake\\GameState.cs",
+              "RelativeToolTip": "Snake\\GameState.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:46:09.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
